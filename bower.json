@@ -1,6 +1,6 @@
 {
   "name": "everything",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/gdi2290/bower-everything",
   "main": "index.js",
   "repository": {
@@ -59,7 +59,6 @@
     "500px": "latest",
     "60fps-scroll": "latest",
     "66": "latest",
-    "666": "latest",
     "76d-social-icons": "latest",
     "8bit.js": "latest",
     "960-grid-system": "latest",
