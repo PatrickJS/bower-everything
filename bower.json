@@ -3774,7 +3774,7 @@
     "closure-externs-mocha": "latest",
     "closure-helpers": "latest",
     "closurelibrary": "latest",
-        closure-library git+https://code.google.com/p/closure-library/
+    "closure-library": "latest",
     "closure-structs": "latest",
     "cloudinary": "latest",
     "cloudinary_angular": "latest",
