@@ -32,7 +32,6 @@
   },
   "homepage": "https://github.com/gdi2290/bower-everything",
   "dependencies": {
-    "": "latest",
     ".": "latest",
     "💩": "latest",
     "10digit-geo": "latest",
