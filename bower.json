@@ -1,6 +1,6 @@
 {
   "name": "everything",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/gdi2290/bower-everything",
   "main": "index.js",
   "repository": {
@@ -12039,7 +12039,7 @@
     "responsive-table-wrap": "latest",
     "responsive-tabs": "latest",
     "responsivetest": "latest",
-        ressac-form https://bitbucket.org/ressac/ressac-form.git
+    "ressac-form": "latest",
     "rest": "latest",
     "restable": "latest",
     "ReStable": "latest",
